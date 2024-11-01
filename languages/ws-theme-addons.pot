@@ -1,0 +1,1827 @@
+# Copyright (C) 2022 WEN Solutions
+# This file is distributed under the same license as the WS Theme Addons package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WS Theme Addons 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ws-theme-addons\n"
+"POT-Creation-Date: 2022-06-24 08:26:23+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: build/ws-theme-addons/inc/admin/templates/partials/template-features-addons.php:23
+#: inc/admin/templates/partials/template-features-addons.php:21
+msgid "Enable Instagram Widget"
+msgstr ""
+
+#: build/ws-theme-addons/inc/admin/templates/partials/template-features-addons.php:33
+#: inc/admin/templates/partials/template-features-addons.php:31
+msgid "Instagram App Access Token"
+msgstr ""
+
+#: build/ws-theme-addons/inc/admin/templates/partials/template-features-addons.php:47
+#: inc/admin/templates/partials/template-features-addons.php:97
+#: inc/admin/templates/partials/template-theme-settings.php:66
+#: inc/frameworks/redux/templates/panel/footer.tpl.php:57
+#: inc/frameworks/redux/templates/panel/header_stickybar.tpl.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: build/ws-theme-addons/inc/admin/templates/partials/template-theme-info.php:20
+#: inc/admin/templates/partials/template-theme-info.php:20
+msgid "Version"
+msgstr ""
+
+#: build/ws-theme-addons/inc/admin/templates/partials/template-theme-info.php:32
+#: build/ws-theme-addons/inc/class-admin-settings.php:27
+#: inc/admin/options/options.php:25
+#: inc/admin/templates/partials/template-theme-info.php:32
+#: inc/class-admin-settings.php:27
+msgid "Theme Options"
+msgstr ""
+
+#: build/ws-theme-addons/inc/admin/templates/partials/template-theme-info.php:35
+#: inc/admin/templates/partials/template-theme-info.php:35
+msgid ""
+"Customizer API for theme options which will help you preview your changes "
+"live and fast."
+msgstr ""
+
+#: build/ws-theme-addons/inc/admin/templates/partials/template-theme-info.php:39
+#: inc/admin/templates/partials/template-theme-info.php:39
+msgid "Customize"
+msgstr ""
+
+#: build/ws-theme-addons/inc/admin/templates/partials/template-theme-info.php:48
+#: inc/admin/templates/partials/template-theme-info.php:48
+msgid "Import Demo Contents"
+msgstr ""
+
+#: build/ws-theme-addons/inc/admin/templates/partials/template-theme-info.php:50
+#: inc/admin/templates/partials/template-theme-info.php:50
+msgid "Import demo contents data for the theme"
+msgstr ""
+
+#: build/ws-theme-addons/inc/admin/templates/partials/template-theme-info.php:53
+#: inc/admin/templates/partials/template-theme-info.php:53
+#: inc/frameworks/redux/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:93
+#: inc/frameworks/redux/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: build/ws-theme-addons/inc/admin/templates/settings-page.php:15
+#: inc/admin/templates/settings-page.php:15
+msgid "Settings saved."
+msgstr ""
+
+#: build/ws-theme-addons/inc/admin/templates/settings-page.php:18
+#: inc/admin/templates/settings-page.php:18
+msgid "Dismiss this notice."
+msgstr ""
+
+#: build/ws-theme-addons/inc/admin/templates/settings-page.php:25
+#: inc/admin/templates/settings-page.php:25
+msgid "Theme Info"
+msgstr ""
+
+#: build/ws-theme-addons/inc/admin/templates/settings-page.php:28
+#: inc/admin/templates/settings-page.php:33
+msgid "Features & Addons"
+msgstr ""
+
+#: build/ws-theme-addons/inc/class-admin-settings.php:63
+msgid "Are you sure?"
+msgstr ""
+
+#: build/ws-theme-addons/inc/class-admin-settings.php:64
+msgid ""
+"Importing demo will import posts, pages and media files.It will clear all "
+"of your Theme Settings, Widgets and Nav menu Options"
+msgstr ""
+
+#: build/ws-theme-addons/inc/class-admin-settings.php:65
+msgid "Demo Import Cancelled !"
+msgstr ""
+
+#: build/ws-theme-addons/inc/class-ws-theme-addons-demo-import.php:84
+#: inc/class-ws-theme-addons-demo-import.php:84
+msgid "The XML file dummy content is missing."
+msgstr ""
+
+#: build/ws-theme-addons/inc/class-ws-theme-addons-demo-import.php:154
+#: inc/class-ws-theme-addons-demo-import.php:154
+msgid "The customizer data JSON file is missing."
+msgstr ""
+
+#: build/ws-theme-addons/inc/class-ws-theme-addons-demo-import.php:177
+#: inc/class-ws-theme-addons-demo-import.php:177
+msgid "The JSON file widget content is missing."
+msgstr ""
+
+#: build/ws-theme-addons/inc/class-ws-theme-addons-demo-import.php:191
+#: inc/class-ws-theme-addons-demo-import.php:191
+msgid "Sorry, you are not allowed to import."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/class-widget-importer.php:39
+#: inc/importers/class-widget-importer.php:39
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/class-widget-importer.php:77
+#: inc/importers/class-widget-importer.php:77
+msgid "Widget area does not exist in theme (using Inactive)"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/class-widget-importer.php:100
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/radium-importer.php:428
+#: inc/importers/class-widget-importer.php:100
+msgid "Site does not support widget"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/class-widget-importer.php:138
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/radium-importer.php:451
+#: inc/importers/class-widget-importer.php:138
+msgid "Widget already exists"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/class-widget-importer.php:216
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/radium-importer.php:500
+#: inc/frameworks/redux/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:116
+#: inc/importers/class-widget-importer.php:216
+msgid "Imported"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/class-widget-importer.php:219
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/radium-importer.php:503
+#: inc/importers/class-widget-importer.php:219
+msgid "Imported to Inactive"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/class-widget-importer.php:226
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/radium-importer.php:510
+#: inc/importers/class-widget-importer.php:226
+msgid "No Title"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/customizer-import/class-customizer-importer.php:40
+#: inc/importers/customizer-import/class-customizer-importer.php:40
+msgid ""
+"The customizer import file is not in a correct format. Please make sure to "
+"use the correct customizer import file."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/customizer-import/class-customizer-importer.php:44
+#: inc/importers/customizer-import/class-customizer-importer.php:44
+msgid ""
+"The customizer import file is not suitable for current theme. You can only "
+"import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:126
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:135
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:186
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:190
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:199
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+#: inc/importers/wordpress-importer/class-wxr-importer.php:126
+#: inc/importers/wordpress-importer/class-wxr-importer.php:135
+#: inc/importers/wordpress-importer/class-wxr-importer.php:186
+#: inc/importers/wordpress-importer/class-wxr-importer.php:190
+#: inc/importers/wordpress-importer/class-wxr-importer.php:199
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:127
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+#: inc/importers/wordpress-importer/class-wxr-importer.php:127
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:170
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+#: inc/importers/wordpress-importer/class-wxr-importer.php:170
+msgid "All done."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:170
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+#: inc/importers/wordpress-importer/class-wxr-importer.php:170
+msgid "Have fun!"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:171
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+#: inc/importers/wordpress-importer/class-wxr-importer.php:171
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:191
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#: inc/importers/wordpress-importer/class-wxr-importer.php:191
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:207
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#: inc/importers/wordpress-importer/class-wxr-importer.php:207
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:232
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#: inc/importers/wordpress-importer/class-wxr-importer.php:232
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:258
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+#: inc/importers/wordpress-importer/class-wxr-importer.php:258
+msgid "Assign Authors"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:259
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+#: inc/importers/wordpress-importer/class-wxr-importer.php:259
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of "
+"this site. For example, you may want to import all the entries as "
+"<code>admin</code>s entries."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:261
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#: inc/importers/wordpress-importer/class-wxr-importer.php:261
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually "
+"changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:271
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+#: inc/importers/wordpress-importer/class-wxr-importer.php:271
+msgid "Import Attachments"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:274
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+#: inc/importers/wordpress-importer/class-wxr-importer.php:274
+msgid "Download and import file attachments"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:278
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+#: inc/importers/wordpress-importer/class-wxr-importer.php:278
+msgid "Submit"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:291
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+#: inc/importers/wordpress-importer/class-wxr-importer.php:291
+msgid "Import author:"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:302
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+#: inc/importers/wordpress-importer/class-wxr-importer.php:302
+msgid "or create new user with login name:"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:305
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+#: inc/importers/wordpress-importer/class-wxr-importer.php:305
+msgid "as a new user:"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:313
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+#: inc/importers/wordpress-importer/class-wxr-importer.php:313
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:315
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+#: inc/importers/wordpress-importer/class-wxr-importer.php:315
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:316
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+#: inc/importers/wordpress-importer/class-wxr-importer.php:316
+msgid "- Select -"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:366
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#: inc/importers/wordpress-importer/class-wxr-importer.php:366
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:418
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#: inc/importers/wordpress-importer/class-wxr-importer.php:418
+msgid "Failed to import category %s"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:461
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#: inc/importers/wordpress-importer/class-wxr-importer.php:461
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:510
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:732
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#: inc/importers/wordpress-importer/class-wxr-importer.php:510
+#: inc/importers/wordpress-importer/class-wxr-importer.php:732
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:599
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#: inc/importers/wordpress-importer/class-wxr-importer.php:599
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:636
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#: inc/importers/wordpress-importer/class-wxr-importer.php:636
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:698
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#: inc/importers/wordpress-importer/class-wxr-importer.php:698
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:863
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+#: inc/importers/wordpress-importer/class-wxr-importer.php:863
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:870
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#: inc/importers/wordpress-importer/class-wxr-importer.php:870
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:938
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+#: inc/importers/wordpress-importer/class-wxr-importer.php:938
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:952
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+#: inc/importers/wordpress-importer/class-wxr-importer.php:952
+msgid "Invalid file type"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:1030
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1030
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:1043
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1043
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:1048
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1048
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:1054
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1054
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:1147
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1147
+msgid "Import WordPress"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:1154
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1154
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:1169
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1169
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-importer.php:1170
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+#: inc/importers/wordpress-importer/class-wxr-importer.php:1170
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-parsers.php:44
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-parsers.php:74
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-parsers.php:82
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/parsers.php:42
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/parsers.php:72
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/parsers.php:80
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:44
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:74
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:82
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-parsers.php:45
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/parsers.php:43
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:45
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-parsers.php:86
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-parsers.php:91
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-parsers.php:308
+#: build/ws-theme-addons/inc/importers/wordpress-importer/class-wxr-parsers.php:497
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/parsers.php:84
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/parsers.php:89
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/parsers.php:279
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/parsers.php:468
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:86
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:91
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:308
+#: inc/importers/wordpress-importer/class-wxr-parsers.php:497
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:28
+#: inc/modules/widgets/class-instagram-widget.php:28
+msgid "Instagram Photos"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:39
+#: inc/modules/widgets/class-facebook-feed-widget.php:36
+#: inc/modules/widgets/class-instagram-widget.php:39
+msgid "Display Your Instagram Photos in Widget Locations"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:48
+#: inc/modules/widgets/class-instagram-widget.php:48
+msgid "WS Instagram Widget"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:64
+#: inc/modules/widgets/class-facebook-feed-widget.php:63
+#: inc/modules/widgets/class-instagram-widget.php:64
+#: inc/modules/widgets/twitter-widget/class-twitter-feed-widget.php:99
+#: inc/modules/widgets/weather-widget/class-weather-widget.php:61
+msgid "Widget Title"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:69
+#: inc/modules/widgets/class-instagram-widget.php:69
+msgid "Instagram Username"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:74
+#: inc/modules/widgets/class-instagram-widget.php:74
+msgid "Display Layout"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:78
+#: inc/modules/widgets/class-instagram-widget.php:78
+msgid "2 Column"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:79
+#: inc/modules/widgets/class-instagram-widget.php:79
+msgid "3 Column"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:80
+#: inc/modules/widgets/class-instagram-widget.php:80
+msgid "Full Width"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:88
+#: inc/modules/widgets/class-call-to-action-widget.php:81
+#: inc/modules/widgets/class-call-to-action-widget.php:109
+#: inc/modules/widgets/class-instagram-widget.php:88
+msgid "Note: "
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:88
+#: inc/modules/widgets/class-instagram-widget.php:88
+msgid "Full Width Layout displays images in 6 columns"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:93
+#: inc/modules/widgets/class-instagram-widget.php:93
+msgid "Use Access Token"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:109
+#: inc/modules/widgets/class-instagram-widget.php:109
+msgid "Number of photos to show"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:115
+#: inc/modules/widgets/class-instagram-widget.php:115
+msgid "Check to Open Image / Link in new Tab/Window"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:119
+#: inc/modules/widgets/class-instagram-widget.php:119
+msgid "Follow Link text"
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:307
+#: inc/modules/widgets/class-instagram-widget.php:307
+msgid "Unable to communicate with Instagram."
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:311
+#: inc/modules/widgets/class-instagram-widget.php:311
+msgid "Instagram did not return a 200."
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:320
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:337
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:351
+#: inc/modules/widgets/class-instagram-widget.php:320
+#: inc/modules/widgets/class-instagram-widget.php:337
+#: inc/modules/widgets/class-instagram-widget.php:351
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: build/ws-theme-addons/inc/modules/widgets/class-instagram-widget.php:375
+#: inc/modules/widgets/class-instagram-widget.php:375
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: build/ws-theme-addons/ws-theme-addons.php:175
+msgid ""
+"WS Theme Addons Pro is activated. WS Theme Addons (Free version) will be "
+"deactivated now."
+msgstr ""
+
+#: inc/admin/options/options-fields.php:6
+msgid "Branding"
+msgstr ""
+
+#: inc/admin/options/options-fields.php:7
+msgid "Personalize theme by adding your own images"
+msgstr ""
+
+#: inc/admin/options/options-fields.php:14
+msgid "Logo"
+msgstr ""
+
+#: inc/admin/options/options-fields.php:15
+msgid ""
+"Upload your logo image here, or leave empty to show the website title "
+"instead."
+msgstr ""
+
+#: inc/admin/options/options-fields.php:23
+msgid "Retina logo (2x)"
+msgstr ""
+
+#: inc/admin/options/options-fields.php:24
+msgid ""
+"Optionally upload another logo for devices with retina displays. It should "
+"be double the size of your standard logo"
+msgstr ""
+
+#: inc/admin/options/options-fields.php:32
+msgid "Mini logo"
+msgstr ""
+
+#: inc/admin/options/options-fields.php:33
+msgid "Optionally upload another logo which may be used as mobile/tablet logo"
+msgstr ""
+
+#: inc/admin/options/options-fields.php:41
+msgid "Mini retina logo (2x)"
+msgstr ""
+
+#: inc/admin/options/options-fields.php:42
+msgid "Upload double sized mini logo for devices with retina displays"
+msgstr ""
+
+#: inc/admin/options/options-fields.php:50
+msgid "Default featured image"
+msgstr ""
+
+#: inc/admin/options/options-fields.php:51
+msgid ""
+"Upload your default featured image/placeholder. It will be displayed for "
+"posts that do not have a featured image set."
+msgstr ""
+
+#: inc/admin/options/options.php:22
+msgid "Gridlove Options%sTheme Documentation%s"
+msgstr ""
+
+#: inc/admin/options/options.php:26
+msgid "Gridlove Options"
+msgstr ""
+
+#: inc/admin/templates/partials/template-features-addons.php:43
+msgid "Enable Facebook Page Feed Widget"
+msgstr ""
+
+#: inc/admin/templates/partials/template-features-addons.php:53
+msgid "Facebook App Access Token"
+msgstr ""
+
+#: inc/admin/templates/partials/template-features-addons.php:63
+msgid "Enable Twitter Feed Widget"
+msgstr ""
+
+#: inc/admin/templates/partials/template-features-addons.php:72
+msgid "Twitter App Consumer key"
+msgstr ""
+
+#: inc/admin/templates/partials/template-features-addons.php:76
+msgid "Twitter App Consumer Secret"
+msgstr ""
+
+#: inc/admin/templates/partials/template-features-addons.php:80
+msgid "Twitter App Access Token"
+msgstr ""
+
+#: inc/admin/templates/partials/template-features-addons.php:84
+msgid "Twitter App Access Token Secret"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-settings.php:7
+msgid "&copy; All Rights Reserved."
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-settings.php:29
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-settings.php:36
+msgid "Bold"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-settings.php:37
+msgid "Make Text Itallic"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-settings.php:38
+msgid "Insert Link"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-settings.php:44
+msgid "Add Copyright icon"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-settings.php:45
+msgid "Add current Year"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-settings.php:45
+msgid "Year"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-settings.php:46
+msgid "Insert Site Name"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-settings.php:46
+msgid "Site Name"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-settings.php:47
+msgid "Insert Site URL"
+msgstr ""
+
+#: inc/admin/templates/partials/template-theme-settings.php:47
+msgid "Site URL"
+msgstr ""
+
+#: inc/admin/templates/settings-page.php:29
+msgid "Theme Settings"
+msgstr ""
+
+#: inc/class-ws-theme-addons-shortcodes.php:58
+#: inc/modules/widgets/weather-widget/class-weather-widget.php:109
+msgid "Location Not Set"
+msgstr ""
+
+#: inc/class-ws-theme-addons-shortcodes.php:73
+#: inc/modules/widgets/weather-widget/class-weather-widget.php:131
+msgid "Search"
+msgstr ""
+
+#: inc/customizer/customizer-additionals.php:22
+msgid "Slider"
+msgstr ""
+
+#: inc/customizer/customizer-additionals.php:26
+msgid "Itinerary Search Section"
+msgstr ""
+
+#: inc/customizer/customizer-additionals.php:30
+msgid "Post Filter Section"
+msgstr ""
+
+#: inc/customizer/customizer-additionals.php:34
+msgid "Call To Action"
+msgstr ""
+
+#: inc/customizer/customizer-additionals.php:38
+msgid "Recommended Posts"
+msgstr ""
+
+#: inc/customizer/customizer-additionals.php:42
+msgid "Testimonials"
+msgstr ""
+
+#: inc/customizer/customizer-additionals.php:46
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/customizer/customizer-additionals.php:50
+msgid "Front Page Widgets"
+msgstr ""
+
+#: inc/customizer/customizer-additionals.php:71
+msgid "Manage Sections"
+msgstr ""
+
+#: inc/customizer/customizer-additionals.php:90
+msgid "Reorder/Toggle Homepage Sections"
+msgstr ""
+
+#: inc/frameworks/redux/core/enqueue.php:453
+#: inc/frameworks/redux/inc/extensions/customizer/extension_customizer.php:685
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: inc/frameworks/redux/core/enqueue.php:461
+#: inc/frameworks/redux/inc/extensions/customizer/extension_customizer.php:686
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: inc/frameworks/redux/core/enqueue.php:469
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: inc/frameworks/redux/core/enqueue.php:477
+#: inc/frameworks/redux/inc/extensions/customizer/extension_customizer.php:687
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: inc/frameworks/redux/core/enqueue.php:484
+msgid "Please Wait"
+msgstr ""
+
+#: inc/frameworks/redux/core/enqueue.php:495
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: inc/frameworks/redux/core/enqueue.php:496
+msgid "There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: inc/frameworks/redux/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: inc/frameworks/redux/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: inc/frameworks/redux/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: inc/frameworks/redux/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: inc/frameworks/redux/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: inc/frameworks/redux/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: inc/frameworks/redux/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: inc/frameworks/redux/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: inc/frameworks/redux/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:220
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:220
+msgid "Redux Framework"
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:224
+#: inc/frameworks/redux/framework.php:228
+msgid "Options"
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:1753
+msgid "Enable"
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:1758
+msgid "Disable"
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:1764
+msgid "moving the mouse over"
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:1766
+msgid "clicking"
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:1770
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by "
+"using the link below."
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:1775
+msgid "Hints"
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:1902
+msgid "Default"
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:2780
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:2789
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:2869
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:3964
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: inc/frameworks/redux/framework.php:3979
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping "
+"your product."
+msgstr ""
+
+#: inc/frameworks/redux/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: inc/frameworks/redux/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load "
+"some remotely hosted scripts."
+msgstr ""
+
+#: inc/frameworks/redux/inc/class.redux_cdn.php:76
+msgid ""
+"If you are developing offline, please download and install the <a "
+"href=\"%s\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to "
+"bypass the our CDN and avoid this warning"
+msgstr ""
+
+#: inc/frameworks/redux/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: inc/frameworks/redux/inc/class.redux_cdn.php:81
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: inc/frameworks/redux/inc/class.redux_cdn.php:113
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly. "
+" Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: inc/frameworks/redux/inc/class.redux_filesystem.php:31
+#: inc/frameworks/redux/inc/class.redux_filesystem.php:60
+#: inc/frameworks/redux/inc/class.redux_filesystem.php:271
+msgid "File Permission Issues"
+msgstr ""
+
+#: inc/frameworks/redux/inc/class.redux_filesystem.php:31
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: inc/frameworks/redux/inc/class.redux_filesystem.php:60
+#: inc/frameworks/redux/inc/class.redux_filesystem.php:271
+msgid ""
+"We were unable to modify required files. Please ensure that "
+"<code>%1s</code> has the proper read-write permissions, or modify your "
+"wp-config.php file to contain your FTP login credentials as <a href=\"%2s\" "
+"target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: inc/frameworks/redux/inc/class.redux_helpers.php:610
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/customizer/extension_customizer.php:720
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/customizer/extension_customizer.php:721
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/customizer/extension_customizer.php:722
+msgid ""
+"Your current options will be replaced with the values of this preset.  "
+"Would you like to proceed?"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/customizer/inc/customizer_panel.php:114
+#: inc/frameworks/redux/inc/extensions/customizer/inc/customizer_panel.php:142
+#. translators: %s is the site/panel title in the Customizer
+msgid "You are customizing %s"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/customizer/inc/customizer_panel.php:138
+#: inc/frameworks/redux/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed "
+"with caution!"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/options_object/extension_options_object.php:82
+#: inc/frameworks/redux/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/wbc_importer/extension_wbc_importer.php:247
+msgid "Demo Already Imported"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/wbc_importer/extension_wbc_importer.php:274
+#: inc/frameworks/redux/inc/extensions/wbc_importer/extension_wbc_importer.php:276
+msgid "Demo Importer"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/wbc_importer/extension_wbc_importer.php:281
+msgid "Works best to import on a new install of WordPress"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/radium-importer.php:259
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/radium-importer.php:332
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/radium-importer.php:406
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:97
+msgid "Demo Imported"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+#: inc/frameworks/redux/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Please Wait..."
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Re-Import"
+msgstr ""
+
+#: inc/frameworks/redux/inc/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:127
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/background/field_background.php:124
+#: inc/frameworks/redux/inc/fields/color/field_color.php:73
+#: inc/frameworks/redux/inc/fields/color_gradient/field_color_gradient.php:79
+#: inc/frameworks/redux/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/background/field_background.php:277
+#: inc/frameworks/redux/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/background/field_background.php:314
+#: inc/frameworks/redux/inc/fields/media/field_media.php:198
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:126
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:188
+#: inc/modules/widgets/class-call-to-action-widget.php:90
+msgid "Upload"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/background/field_background.php:321
+#: inc/frameworks/redux/inc/fields/media/field_media.php:205
+#: inc/frameworks/redux/inc/fields/multi_text/field_multi_text.php:69
+#: inc/frameworks/redux/inc/fields/multi_text/field_multi_text.php:73
+#: inc/frameworks/redux/inc/fields/multi_text/field_multi_text.php:76
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:133
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/border/field_border.php:125
+#: inc/frameworks/redux/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/border/field_border.php:138
+#: inc/frameworks/redux/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/border/field_border.php:145
+#: inc/frameworks/redux/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/border/field_border.php:152
+#: inc/frameworks/redux/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/border/field_border.php:159
+#: inc/frameworks/redux/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/dimensions/field_dimensions.php:178
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/dimensions/field_dimensions.php:189
+#: inc/frameworks/redux/inc/fields/dimensions/field_dimensions.php:190
+#: inc/frameworks/redux/inc/fields/spacing/field_spacing.php:245
+#: inc/frameworks/redux/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/link_color/field_link_color.php:88
+msgid "Regular"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/link_color/field_link_color.php:92
+msgid "Hover"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/link_color/field_link_color.php:96
+msgid "Visited"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/link_color/field_link_color.php:100
+msgid "Active"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/select/field_select.php:83
+#: inc/frameworks/redux/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/select/field_select.php:134
+#: inc/frameworks/redux/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:73
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:174
+msgid "New %s"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:145
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:149
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:153
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:167
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/slides/field_slides.php:223
+msgid "Add %s"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:258
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:273
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:342
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:343
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:365
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:366
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:388
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:389
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:408
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:409
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:432
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:441
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:450
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:459
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/frameworks/redux/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:152
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:153
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:154
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:155
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: inc/frameworks/redux/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: inc/frameworks/redux/inc/validation/color/validation_color.php:15
+#: inc/frameworks/redux/inc/validation/color_rgba/validation_color_rgba.php:14
+#: inc/frameworks/redux/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: inc/frameworks/redux/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid "You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: inc/frameworks/redux/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: inc/frameworks/redux/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: inc/frameworks/redux/inc/validation/email/validation_email.php:16
+#: inc/frameworks/redux/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: inc/frameworks/redux/inc/validation/no_html/validation_no_html.php:15
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: inc/frameworks/redux/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: inc/frameworks/redux/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: inc/frameworks/redux/inc/validation/numeric/validation_numeric.php:16
+#: inc/frameworks/redux/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: inc/frameworks/redux/inc/validation/unique_slug/validation_unique_slug.php:16
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: inc/frameworks/redux/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: inc/frameworks/redux/templates/panel/footer.tpl.php:61
+#: inc/frameworks/redux/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset Section"
+msgstr ""
+
+#: inc/frameworks/redux/templates/panel/footer.tpl.php:62
+#: inc/frameworks/redux/templates/panel/header_stickybar.tpl.php:26
+msgid "Reset All"
+msgstr ""
+
+#: inc/frameworks/redux/templates/panel/footer.tpl.php:67
+#: inc/frameworks/redux/templates/panel/header_stickybar.tpl.php:29
+msgid "Working..."
+msgstr ""
+
+#: inc/frameworks/redux/templates/panel/header.tpl.php:11
+#: inc/frameworks/redux/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: inc/frameworks/redux/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: inc/frameworks/redux/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: inc/frameworks/redux/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: inc/frameworks/redux/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: inc/frameworks/redux/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: inc/frameworks/redux/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: inc/frameworks/redux/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:38
+msgid "Call to action widget for custom content / link"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:47
+msgid "WS Call to Action"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:65
+msgid "CTA Title Text"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:70
+msgid "CTA Content Text"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:75
+msgid "CTA Button Text"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:80
+msgid "CTA Button URL"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:81
+msgid "Leave the URL field blank to disable button"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:86
+msgid "Image URL"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:90
+msgid "Select Image"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:90
+msgid "Choose Image"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:103
+msgid "Preview"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:108
+msgid "Enable Parallyx Background"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:109
+msgid "Enable Parallax Background for CTA Section"
+msgstr ""
+
+#: inc/modules/widgets/class-call-to-action-widget.php:164
+msgid "View Details"
+msgstr ""
+
+#: inc/modules/widgets/class-facebook-feed-widget.php:28
+msgid "Facebook Photos"
+msgstr ""
+
+#: inc/modules/widgets/class-facebook-feed-widget.php:45
+msgid "WS Facebook Widget"
+msgstr ""
+
+#: inc/modules/widgets/class-facebook-feed-widget.php:68
+msgid "Facebook Page ID"
+msgstr ""
+
+#: inc/modules/widgets/class-facebook-feed-widget.php:73
+msgid "Number of Posts to Fetch"
+msgstr ""
+
+#: inc/modules/widgets/class-facebook-feed-widget.php:79
+msgid "Check to display Page Info header in widget"
+msgstr ""
+
+#: inc/modules/widgets/class-facebook-feed-widget.php:257
+msgid " Shares"
+msgstr ""
+
+#: inc/modules/widgets/class-facebook-feed-widget.php:262
+msgid " Comments"
+msgstr ""
+
+#: inc/modules/widgets/twitter-widget/class-twitter-feed-widget.php:31
+msgid "Twitter Feed"
+msgstr ""
+
+#: inc/modules/widgets/twitter-widget/class-twitter-feed-widget.php:39
+msgid "Display Your Twitter Feeds in Widget Locations"
+msgstr ""
+
+#: inc/modules/widgets/twitter-widget/class-twitter-feed-widget.php:48
+msgid "WS Twitter Widget"
+msgstr ""
+
+#: inc/modules/widgets/twitter-widget/class-twitter-feed-widget.php:104
+msgid "Twitter Handle ( without \"@\" )"
+msgstr ""
+
+#: inc/modules/widgets/twitter-widget/class-twitter-feed-widget.php:110
+msgid "Number of Tweets"
+msgstr ""
+
+#: inc/modules/widgets/twitter-widget/class-twitter-feed-widget.php:116
+msgid "Check to display Profile Info in widget"
+msgstr ""
+
+#: inc/modules/widgets/twitter-widget/class-twitter-feed-widget.php:226
+msgid "Tweets"
+msgstr ""
+
+#: inc/modules/widgets/twitter-widget/class-twitter-feed-widget.php:229
+msgid "Followers"
+msgstr ""
+
+#: inc/modules/widgets/twitter-widget/class-twitter-feed-widget.php:232
+msgid "Following"
+msgstr ""
+
+#: inc/modules/widgets/twitter-widget/inc/TwitterWP.php:239
+msgid "ERROR: You need to provide a user."
+msgstr ""
+
+#: inc/modules/widgets/twitter-widget/inc/TwitterWP.php:352
+msgid "ERROR: Could not retrieve bearer token."
+msgstr ""
+
+#: inc/modules/widgets/twitter-widget/inc/TwitterWP.php:717
+msgid "ERROR: Missing Twitter App credentials."
+msgstr ""
+
+#: inc/modules/widgets/weather-widget/class-weather-widget.php:34
+msgid "Weather Details Widget"
+msgstr ""
+
+#: inc/modules/widgets/weather-widget/class-weather-widget.php:43
+msgid "WS Weather Widget"
+msgstr ""
+
+#: inc/modules/widgets/weather-widget/class-weather-widget.php:66
+msgid "City"
+msgstr ""
+
+#: inc/modules/widgets/weather-widget/class-weather-widget.php:67
+msgid "Enter Your City.."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WS Theme Addons"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.wensolutions.com/plugins/ws-theme-addons"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Provides Additional Features and functionalities for themes."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WEN Solutions"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://wensolutions.com"
+msgstr ""
